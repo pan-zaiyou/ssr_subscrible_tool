@@ -1,5 +1,5 @@
 #节点列表
-#onlyou节点1
+#hongkong节点1
 ssr://MzQuOTIuNjAuMjQwOjY1NTEzOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpjR0Z1ZW1GcGVXOTEvP29iZnNwYXJhbT0mcmVtYXJrcz1hR3N0TVE
-#onlyou节点2
+#hongkong节点2
 ssr://MzQuOTIuMTEwLjE4Mzo1ODgwMDphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Y0dGdWVtRnBlVzkxLz9vYmZzcGFyYW09JnJlbWFya3M9YUdzdE1n
